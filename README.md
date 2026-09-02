@@ -4,23 +4,26 @@ Welcome to the Bayside Middle School PTA Planning Repository.
 This space serves as a central, organized collection of notes, plans, event ideas, and reference materials that support the ongoing work of the Bayside PTA.
 
 ## Purpose
-The goal of this repository is to provide a clear, accessible view of PTA planning efforts across school years. Each year has its own folder containing documents related to events, budgeting, meeting preparation, Reflections, and RCA House System activities. This structure helps maintain continuity, supports future PTA boards, and ensures that information is easy to locate and review.
+The goal of this repository is to provide a clear, accessible view of PTA planning efforts across school years. Each year has its own folder containing documents related to events, budgeting, meetings, student challenges, Reflections, and RCA House System activities. This structure helps maintain continuity, supports future PTA boards, and ensures that information is easy to locate and review.
 
 ## What You’ll Find Here
 - **Annual Planning Folders**  
-  Each school year includes its own directory with agendas, calendars, event proposals, and notes.
+  Each school year includes its own directory with agendas, calendars, event proposals, challenge drafts, and planning notes.
 
-- **Event Concepts & Engagement Ideas**  
-  House-based competitions, Reflections support, family engagement nights, seasonal activities, and other initiatives designed to strengthen the Bayside community.
+- **Events**  
+  Family engagement nights, House-based competitions, seasonal activities, and other initiatives designed to strengthen the Bayside community.
 
-- **Budget Notes & Historical References**  
-  High-level summaries and planning notes to assist with financial decision-making and transparency.
+- **Budget Notes & Financial Planning**  
+  High-level summaries, draft budgets, and cost estimates to support financial decision-making and transparency.
 
-- **House System Support**  
-  Ideas and documents aligned with Bayside’s RCA House System to encourage student participation and school spirit.
+- **Student Challenges & Enrichment**  
+  Reflections, Great Computer Challenge, STEM challenges, and other programs that encourage creativity, academic growth, and House participation.
+
+- **Meetings**  
+  Agendas, minutes, and preparation notes for PTA meetings throughout the school year.
 
 - **Portal Planning (Future)**  
-  Early notes and architecture ideas for a future PTA Central Portal that will eventually replace this repository as the primary public-facing resource.
+  Early notes and architecture ideas for a future PTA Central Portal that may eventually replace this repository as the primary public-facing resource.
 
 ## Audience
 This repository is intended for:
@@ -33,4 +36,3 @@ All content is written in a parent-friendly, easy-to-read format using Markdown 
 
 ## Maintainer
 This repository is maintained by PTA volunteer leadership to support planning, transparency, and long-term continuity for Bayside Middle School.
-
